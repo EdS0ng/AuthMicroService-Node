@@ -1,0 +1,21 @@
+{
+  "name": "auth_micro_service",
+  "version": "1.0.0",
+  "description": "user authentication micro service with NOde",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.0",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "jwt-simple": "^0.4.1",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.6",
+    "morgan": "^1.7.0"
+  }
+}
